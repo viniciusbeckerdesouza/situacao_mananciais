@@ -1,2 +1,7 @@
-# situacao_mananciais
-Análise descritiva dos mananciais brasileiros
+# Situação dos mananciais na Grande São Paulo
+
+Análise descritiva dos mananciais paulistas.
+
+Aplicação de modelo de regressão logística.
+
+Desenvolvimento de modelo de árvore de decisão.
